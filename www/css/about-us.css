@@ -1,0 +1,22 @@
+body {
+  font-family: 'Poiret One', cursive;
+  background-color: rgba(0, 90, 255, 0.82);
+  color: #fff;
+  font-weight: normal;
+  text-align: center;
+  text-shadow: 0px 10px 5px rgb(50, 52, 56)
+}
+/*html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}*/
+body .container {
+  width: 100%;
+  height: 100vh;
+}
+body .container #geologic-map {
+  width: 100%;
+  height: 300px;
+  border: 1px solid;
+}

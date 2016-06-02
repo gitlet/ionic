@@ -1,0 +1,13 @@
+body {
+  background-color: #4B6B8C;
+}
+body .list.list-inset {
+  text-align: center;
+}
+body .list.list-inset img {
+  padding: 40px;
+}
+label.item.item-input {
+  display: block;
+}
+label.item.item-input, input {padding: 10px}
